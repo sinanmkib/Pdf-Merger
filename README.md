@@ -1,6 +1,6 @@
 # 📄 PDF-Zusammenfüger
 
-Ein einfaches Webtool, um mehrere PDF-Dateien direkt im Browser zusammenzuführen. Die PDFs werden serverseitig zusammengeführt und anschliessend sofort gelöscht – ideal für schnelles und sicheres Arbeiten.
+Ein einfaches Webtool, um mehrere PDF-Dateien direkt im Browser zusammenzuführen. Die PDFs werden serverseitig zusammengeführt und anschliessend sofort gelöscht, ideal für schnelles und sicheres Arbeiten.
 
 <!-- Platzhalter für Screenshot -->
 🔧 Funktionen
