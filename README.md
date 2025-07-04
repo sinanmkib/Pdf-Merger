@@ -20,10 +20,7 @@ Ein einfaches Webtool, um mehrere PDF-Dateien direkt im Browser zusammenzuführe
 Auswahl & Drag-and-Drop	Sortieren & Entfernen
 	
 # Schnellstart
-1. Klone das Repository
-
-git clone https://github.com/dein-benutzername/pdf-zusammenfueger.git
-cd pdf-zusammenfueger
+1. Lade das Projekt herunter
 
 2. Installiere die Abhängigkeiten
 
