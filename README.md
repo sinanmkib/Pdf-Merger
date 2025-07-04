@@ -16,8 +16,8 @@ Ein einfaches Webtool, um mehrere PDF-Dateien direkt im Browser zusammenzuführe
     Keine Speicherung auf dem Server
 
 #  Vorschau
-<!-- Füge hier Screenshots ein -->
-Auswahl & Drag-and-Drop	Sortieren & Entfernen
+![Screenshot 2025-07-04 145915](https://github.com/user-attachments/assets/b4972e57-330a-43f9-b40f-b29b28b7ecc0)
+
 	
 # Schnellstart
 1. Lade das Projekt herunter
